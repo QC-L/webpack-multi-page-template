@@ -21,7 +21,7 @@ If port 8080 is already in use on your machine you must change the port number i
 ## What's Included
 
 - `npm run dev`: first-in-class development experience.
-  - Webpack + `vue-loader` for single file Vue components.
+  - Webpack + multi-page for  Vue components.
   - State preserving hot-reload
   - State preserving compilation error overlay
   - Lint-on-save with ESLint
