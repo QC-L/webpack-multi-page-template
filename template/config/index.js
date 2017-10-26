@@ -1,4 +1,6 @@
-// see http://vuejs-templates.github.io/webpack for documentation.
+'use strict'
+// Template version: 1.0.1
+// see https://github.com/QC-L/webpack-multi-page-template for documentation.
 var path = require('path')
 
 module.exports = {
